@@ -1,22 +1,3 @@
-"""CSC110 Fall 2022 Assignment 4, Part 3: Number Theory, Cryptography, and Algorithm Running Time Analysis
-
-Instructions (READ THIS FIRST!)
-===============================
-
-This Python module contains the functions you should complete for Part 3 of this assignment.
-
-Copyright and Usage Information
-===============================
-
-This file is provided solely for the personal and private use of students
-taking CSC110 at the University of Toronto St. George campus. All forms of
-distribution of this code, whether as given or with any changes, are
-expressly prohibited. For more information on copyright for CSC110 materials,
-please consult our Course Syllabus.
-
-This file is Copyright (c) 2022 David Liu and Tom Fairgrieve
-"""
-# You may uncomment this statement to import the math module in this file
 import math
 
 from python_ta.contracts import check_contracts
